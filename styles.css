@@ -1,0 +1,9 @@
+.box{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        text-align: center;
+}
+
+.box-start{
+    border: .1rem solid black;
+}
